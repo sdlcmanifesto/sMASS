@@ -20,16 +20,12 @@ Scrum Master as Service
 
 6- post-call follow up (sharing minutes/follow up on next steps)
 
+**SMaS High-Level Scopes**
+![smas-level-0](https://github.com/sdlcmanfiesto/SMaS/blob/main/smas-level-0.png?raw=true)
 
+**SMaS GHERKIN**
 
-**SMaS QUESTIONS/RULES**
-
-TBA
-
-
-**SMaS TRIGGERS**
-
-TBA
+![smas-gher-1](https://github.com/sdlcmanfiesto/SMaS/blob/main/smas-gherkin.PNG?raw=true)
 
 **LINK**
 
