@@ -1,12 +1,12 @@
-# SDLC Manifesto / SMaS
+# SDLC Manifesto / sMASS
 Scrum Master as Service
 
 **SDLC Manifesto - Overal Objectives**
 
-![level 0](https://github.com/sdlcmanfiesto/SMaS/blob/main/overall%20objectives.PNG?raw=true)
+![level 0](https://github.com/sdlcmanfiesto/sMASS/blob/main/overall%20objectives.PNG?raw=true)
 
 
-**SMaS PURPOSE**
+**sMASS PURPOSE**
 
 1- Set simple meetings using command **(mvp1)**
 
@@ -20,12 +20,12 @@ Scrum Master as Service
 
 6- post-call follow up (sharing minutes/follow up on next steps)
 
-**SMaS High-Level Scopes**
-![smas-level-0](https://github.com/sdlcmanfiesto/SMaS/blob/main/smas-level-0.png?raw=true)
+**sMASS High-Level Scopes**
+![smas-level-0](https://github.com/sdlcmanfiesto/sMASS/blob/main/smas-level-0.png?raw=true)
 
-**SMaS GHERKIN**
+**sMASS GHERKIN**
 
-![smas-gher-1](https://github.com/sdlcmanfiesto/SMaS/blob/main/smas-gherkin.PNG?raw=true)
+![smas-gher-1](https://github.com/sdlcmanfiesto/sMASS/blob/main/smas-gherkin.PNG?raw=true)
 
 **LINK**
 
