@@ -1,26 +1,21 @@
 # SDLC Manifesto / sMASS
 
-**@smass (Scrum Master As Smart Services)**
+Scrum Master As Smart Services
 
-**SDLC Manifesto Scopes:**
+# SDLC Manifesto Scopes:
 ![level 0](https://github.com/sdlcmanifesto/sMASS/blob/main/overall%20scopes.PNG?raw=true)
---
 
-**sMASS Scopes:**
+# sMASS Scopes:
 ![smas-level-0](https://github.com/sdlcmanifesto/sMASS/blob/main/smass-scopes.PNG?raw=true)
---
 
-**sMASS Triggers:**
+# MVP1 & MVP2 GHERKIN:
+![smas-gher-1](https://github.com/sdlcmanifesto/sMASS/blob/main/smass-gherkin.PNG?raw=true)
 
-![smas-gher-1](https://github.com/sdlcmanfiesto/SMaS/blob/main/smass-gherkin.PNG?raw=true)
---
+# @sMASS Commands:
 
-**sMASS Keywords(--help):**
---
+@smass -h --help
 
-
-**LINKS:**
-
+# LINKS
 SDLC Manifesto Deck:
 https://docs.google.com/presentation/d/1tLY5R2mtqFUT7JD0w9coZruG8QSmZgK0devKWxth21s/
 
