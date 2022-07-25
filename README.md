@@ -3,7 +3,7 @@
 **@smass (Scrum Master As Smart Services)**
 
 **SDLC Manifesto Scopes:**
-![level 0](https://github.com/sdlcmanifesto/sMASS/blob/main/overall%20objectives.PNG?raw=true)
+![level 0](https://github.com/sdlcmanifesto/sMASS/blob/main/overall%20scopes.PNG?raw=true)
 --
 
 **sMASS Scopes:**
