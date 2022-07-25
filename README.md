@@ -1,18 +1,22 @@
 # SDLC Manifesto / sMASS
-Scrum Master as Service
 
-**SDLC Manifesto - Overal Objectives**
+**@smass (Scrum Master As Smart Services)**
 
-![level 0](https://github.com/sdlcmanfiesto/SMaS/blob/main/overall%20objectives.PNG?raw=true)
-
-
-**sMASS High-Level Scopes**
-![smas-level-0](https://github.com/sdlcmanfiesto/sMASS/main/smass-scopes.PNG?raw=true)
+**SDLC Manifesto Scopes:**
+![level 0](https://github.com/sdlcmanifesto/sMASS/blob/main/overall%20objectives.PNG?raw=true)
 
 
-**sMASS GHERKIN**
+**sMASS Scopes:**
+![smas-level-0](https://github.com/sdlcmanifesto/sMASS/blob/main/smass-scopes.PNG?raw=true)
+
+
+**sMASS Triggers:**
 
 ![smas-gher-1](https://github.com/sdlcmanfiesto/SMaS/blob/main/smass-gherkin.PNG?raw=true)
+
+**sMASS --help**
+
+
 
 **LINK**
 
