@@ -7,7 +7,7 @@ Scrum Master as Service
 
 
 **sMASS High-Level Scopes**
-![smas-level-0](https://github.com/sdlcmanfiesto/sMASS/blob/main/smass-scopes.png?raw=true)
+![smas-level-0](https://github.com/sdlcmanfiesto/sMASS/main/smass-scopes.png?raw=true)
 
 
 **sMASS GHERKIN**
