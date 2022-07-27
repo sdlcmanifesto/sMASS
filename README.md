@@ -20,7 +20,7 @@ Aims to aid any tech teams to take ownership AND advantage of the time as much a
 ![smas-level-0](https://github.com/sdlcmanifesto/sMASS/blob/main/smass-scopes.PNG?raw=true)
 
 # MVP1 & MVP2 GHERKIN:
-![smas-gher-1](https://github.com/sdlcmanifesto/sMASS/blob/main/smass-gherkin.PNG?raw=true)
+![smas-gher-1](https://github.com/sdlcmanifesto/sMASS/blob/main/smass-gherkin-02.PNG?raw=true)
 
 # @sMASS Commands:
 
