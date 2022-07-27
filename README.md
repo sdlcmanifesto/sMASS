@@ -3,6 +3,15 @@
 Scrum Master As Smart Services
 
 # SDLC Manifesto Scopes:
+Aim to aid any tech teams to take advantage of the time as much as possible in:
+
+1- Meetings, Follow-ups, Alignments: **sMASS**
+
+2- Project Manifestation and Product Behavioral Storytelling: **pMASS**
+
+3- Developments and Rollouts: **cMASS**
+
+![poem](https://github.com/sdlcmanifesto/sMASS/blob/main/sher.PNG)
 ![level 0](https://github.com/sdlcmanifesto/sMASS/blob/main/overall%20scopes.PNG?raw=true)
 
 # sMASS Scopes:
