@@ -7,14 +7,14 @@ Scrum Master As Smart Services
 
 Aims to aid any tech teams to take ownership AND advantage of the time as much as possible in:
 
-1- Meetings, Follow-ups, Alignments: **sMASS**
+1- Meetings, Follow-ups automations: **sMASS**
 
 2- Project Manifestation and Product Behavioral Storytelling: **pMASS**
 
 3- Developments and Rollouts: **cMASS**
 
 # SDLC Manifesto Scopes:
-![level 0](https://github.com/sdlcmanifesto/sMASS/blob/main/overall%20scopes.PNG?raw=true)
+![level 0](https://github.com/sdlcmanifesto/sMASS/blob/main/sdlc-overall-scopes.PNG?raw=true)
 
 # sMASS Scopes:
 ![smas-level-0](https://github.com/sdlcmanifesto/sMASS/blob/main/smass-scopes.PNG?raw=true)
