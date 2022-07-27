@@ -3,7 +3,7 @@
 Scrum Master As Smart Services
 
 # SDLC Manifesto:
-![poem](https://github.com/sdlcmanifesto/sMASS/blob/main/sher-01.PNG)
+![poem](https://github.com/sdlcmanifesto/sMASS/blob/main/img/sher-01.PNG)
 
 Aims to aid any tech teams to take ownership AND advantage of the time as much as possible in:
 
@@ -14,13 +14,13 @@ Aims to aid any tech teams to take ownership AND advantage of the time as much a
 3- Developments and Rollouts: **cMASS**
 
 # SDLC Manifesto Scopes:
-![level 0](https://github.com/sdlcmanifesto/sMASS/blob/main/sdlc-overall-scopes-02.PNG?raw=true)
+![level 0](https://github.com/sdlcmanifesto/sMASS/blob/main/img/sdlc-overall-scopes-02.PNG?raw=true)
 
 # sMASS Scopes:
-![smas-level-0](https://github.com/sdlcmanifesto/sMASS/blob/main/smass-scopes.PNG?raw=true)
+![smas-level-0](https://github.com/sdlcmanifesto/sMASS/blob/main/img/smass-scopes.png?raw=true)
 
 # MVP1 & MVP2 GHERKIN:
-![smas-gher-1](https://github.com/sdlcmanifesto/sMASS/blob/main/smass-gherkin-03.PNG?raw=true)
+![smas-gher-1](https://github.com/sdlcmanifesto/sMASS/blob/main/img/smass-gherkin-03.PNG?raw=true)
 
 # @sMASS Commands:
 
