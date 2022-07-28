@@ -14,7 +14,7 @@ Aims to aid any tech teams to take ownership AND advantage of the time as much a
 3- Developments and Rollouts: **cMASS**
 
 # SDLC Manifesto Scopes:
-![level 0](https://github.com/sdlcmanifesto/sMASS/blob/main/img/sdlc-overall-scopes-02.PNG?raw=true)
+![level 0](https://github.com/sdlcmanifesto/sMASS/blob/main/img/sdlc-overall-scopes-03.PNG?raw=true)
 
 # sMASS Scopes:
 ![smas-level-0](https://github.com/sdlcmanifesto/sMASS/blob/main/img/smass-scopes.png?raw=true)
