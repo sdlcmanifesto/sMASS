@@ -20,11 +20,10 @@ Aims to aid any tech teams to take ownership AND advantage of the time as much a
 ![smas-level-0](https://github.com/sdlcmanifesto/sMASS/blob/main/img/smass-scopes.png?raw=true)
 
 # MVP1 & MVP2 GHERKIN:
-![smas-gher-1](https://github.com/sdlcmanifesto/sMASS/blob/main/img/smass-gherkin-03.PNG?raw=true)
+![smas-gher-1](https://github.com/sdlcmanifesto/sMASS/blob/main/img/smass-gherkin-04.PNG?raw=true)
 
 # @sMASS Commands:
-
-@smass -h --help
+https://docs.google.com/document/d/1xAwP0flTCohnK6jQEh5JMLirbhziM2sbZJAkyVlUxJg/edit#
 
 # LINKS
 SDLC Manifesto Deck:
@@ -32,3 +31,6 @@ https://docs.google.com/presentation/d/1tLY5R2mtqFUT7JD0w9coZruG8QSmZgK0devKWxth
 
 sMASS tech-doc:
 https://docs.google.com/spreadsheets/d/1XZjM2l6VBNHWHwk61rC9nu3xz6arMa_aJo8ld8EPlfE/
+
+DB Entities:
+https://docs.google.com/spreadsheets/d/1XZjM2l6VBNHWHwk61rC9nu3xz6arMa_aJo8ld8EPlfE/edit#gid=1031368432
